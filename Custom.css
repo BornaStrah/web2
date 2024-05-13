@@ -1,4 +1,4 @@
 body
-#grad {
-  background-image: linear-gradient(to bottom right, yellow, blue);
+#grad1 {
+  background-image: linear-gradient(to right, red , yellow);
 }
