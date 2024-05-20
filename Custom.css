@@ -7,8 +7,7 @@ p.prvi
   color: #e28743;
   text-align: left;
 }
-p.link
-{
+p.link{
   text-decoration: none;
   color: #008000; 
 }
