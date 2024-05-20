@@ -9,7 +9,7 @@ p.prvi
 }
 p.link{
   text-decoration: none;
-  color: #008000; 
+  color: green; 
 }
 ul li a, ul li a:visited{
   display: block;
