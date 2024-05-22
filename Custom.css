@@ -2,6 +2,10 @@ body
 {
   background-color: #ADD8E6;
 }
+h1
+{
+  text-align: center;
+}
 p.prvi
 {
   color: #e28743;
