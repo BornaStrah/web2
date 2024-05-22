@@ -6,40 +6,7 @@ h1
 {
   text-align: center;
 }
-p.prvi
-{
-  text-decoration: none;
-  color: green; 
-}
-ul li a, ul li a:visited{
-  display: block;
-  text-decoratio: none;
-  padding: 2px 0px 2px 5px;
-  width: 100px;
-galerija: link {
-  color: black;
-}
-galerija: visited {
-  color: pink;
-}
-galerija: hover {
-  color: red;
-}
-pjesme: link {
-  color: black;
-}
-pjesme: visited {
-  color: pink;
-}
-pjesme: hover {
-  color: red;
-}
-kontakt: link {
-  color: black;
-}
-kontakt: visited {
-  color: pink;
-}
-kontakt: hover {
-  color: red;
-}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: underline; }
