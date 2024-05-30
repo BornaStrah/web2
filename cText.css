@@ -62,10 +62,6 @@ ul li {
   padding: 30px;
   display: inline-block;
 }
-li {
-  display: list-item;
-  unicode-bidi: isolate;
-}
 ul li:hover {
   font-size: 25px;
   color: white;
