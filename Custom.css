@@ -26,7 +26,7 @@ ul li {
   padding: 30px;
   display: inline-block;
 }
-ul li:hover {
+ul li a:hover {
   font-size: 25px;
   color: white;
   background: grey;
