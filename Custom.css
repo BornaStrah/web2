@@ -1,5 +1,6 @@
-body
-{ background:radial-gradient(white,#ADD8E6);}
+body { 
+  background:radial-gradient(white,#ADD8E6);
+}
 h1
 {
   text-align: center;
