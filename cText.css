@@ -1,1 +1,86 @@
-asdsadasd
+body
+{
+    background-image: linear-gradient(to bottom right, lightblue , white);
+}
+h1
+{
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+}
+h2
+{
+    font-size: 35px;
+    font-weight: bold;
+}
+h3
+{
+  font-size: 45px;
+  font-weight: bold;
+}
+h4
+{
+  font-size: 35px;
+  font-weight: bold;
+}
+table {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  border: 3px solid black;
+  margin-top: 50px;
+}
+table a:link {
+  font-size: 15px;
+  color: blue;
+  text-decoration: underline;
+  padding: 0px;
+}
+table a:visited {
+  font-size: 15px;
+  color: blue;
+  padding: 0px;
+}
+table a:hover {
+  color: green;
+  font-size: 15px;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+th, td {
+  border: 2px solid black;
+}
+td {
+  font-size: 40;
+  text-align: center;
+}
+th {
+  font-size: 15px;
+  text-align: left;
+}
+ul li {
+  background: black;
+  padding: 30px;
+  display: inline-block;
+}
+li {
+  display: list-item;
+  unicode-bidi: isolate;
+}
+ul li:hover {
+  font-size: 25px;
+  color: white;
+  background: grey;
+  transform: scale(1.1);
+}
+a:link {
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+  cursor:pointer;
+  padding: 30px;
+}
+a:visited {
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+}
