@@ -46,3 +46,11 @@ a:visited {
   color: white;
   text-decoration: none;
 }
+.val1 {
+  position: absolute;
+  bottom: 0px;
+}
+.val2 {
+  position: absolute;
+  bottom: 0px;
+}
